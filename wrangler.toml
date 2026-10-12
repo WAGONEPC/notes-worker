@@ -1,0 +1,6 @@
+name = "notes-api-2023230021"
+main = "src/index.js"
+compatibility_date = "2025-01-01"
+[[kv_namespaces]]
+binding = "NOTES"
+id = "5108c827fe0a46a4ab40210fe1987776"
